@@ -24,5 +24,10 @@ namespace CommandPattern
 		{
 			InitializeComponent();
 		}
+
+		private void TextInput_Click(object sender, RoutedEventArgs e)
+		{
+
+		}
 	}
 }
